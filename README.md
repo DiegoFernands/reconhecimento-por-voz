@@ -1,2 +1,2 @@
 # reconhecimento-por-voz
-Curso de javascript de reconhecimento por voz
+Jogo com reconhecimento por voz
